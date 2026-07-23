@@ -20,7 +20,7 @@ That second skill is what actually transfers to trees, backtracking, and DP late
 It's slower to build early on, which is exactly why people skip it — it feels like you're "wasting time" tracing simple examples when you could be solving more problems.
 But it's one of those areas where slowing down early buys you speed later, because you stop having to re-derive the mental model every time you hit a new recursive pattern.
 
-One more thing worth knowing since you're committing to GitHub anyway: most people's DSA repos end up being just a graveyard of solved problems with no story behind them — a folder of problem1.py, problem2.py, etc. 
+Most people's DSA repos end up being just a graveyard of solved problems with no story behind them — a folder of problem1.py, problem2.py, etc. 
 Six months later, that repo tells you what you solved but nothing about how you think, which is actually the more useful thing to look back on.
 
 A small habit that fixes this: for each problem, commit a tiny notes.md alongside your solution that captures:
