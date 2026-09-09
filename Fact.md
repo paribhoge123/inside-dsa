@@ -5,7 +5,7 @@ arrays → strings → sorting → searching → linked lists → trees → grap
 It feels logical because it goes from "simple" to "complex."
 But there's a hidden dependency that this ordering ignores: recursion.
 
-Recursion isn't just "one more topic" in the list — it's the mental model that trees, graphs, backtracking, divide-and-conquer, and dynamic programming are all built on top of.
+Recursion is not just "one more topic" in the list — it's the mental model that trees, graphs, backtracking, divide-and-conquer, and dynamic programming are all built on top of.
 If you treat recursion as a checkbox topic (learn factorial, learn Fibonacci, move on), you're setting yourself up for a rough time later.
 Because when you hit tree traversals or graph DFS a few weeks later, you're not just learning a new topic — you're simultaneously trying to learn the topic and relearn how recursive thinking works, under pressure, while also feeling behind. 
 That combination is why so many people say "I understood arrays and sorting fine, but trees and DP just don't click" — it's rarely the trees or DP that are the real problem. 
